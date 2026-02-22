@@ -1,0 +1,56 @@
+.heading {
+    gap: 100px;
+    display: flex;
+}
+.iconeb {
+    line-height: 3em;
+}
+.bouton {
+   display: flex;
+   gap: 30px;
+   margin-top: -370px;
+   margin-left: 10%;
+   
+   
+}
+.ok2{
+    margin-left: 5%;
+    display: flex;
+}
+.ok3{
+    margin-left: 50%;
+}
+abn{
+    
+    
+}
+.acc{
+
+}
+.rang1{
+    display: flex;
+    margin-left: 10%;
+    width: 100px;
+    height: 50px;
+}
+video{
+    border-radius: 15px;
+    width: 300px;
+    height: 150px;
+}
+.rang1{
+    display: flex;
+    margin-left: 200px;
+    gap: 20px;
+    margin-top:5%;
+}
+.carte-video{
+    flex-direction: column;
+    border-radius: 15px;
+}
+.rang2{
+    display: flex;
+    margin-left:200px;
+    gap: 20px;
+    margin-top: 20%;
+}
